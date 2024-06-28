@@ -1,5 +1,5 @@
 # hse-computer-vision
-Repository for homeworks on the course "Computer Vision"
+Repository for homework on the course "Computer Vision"
 
 ## Topics:
 * homework1: Image pre-processing
